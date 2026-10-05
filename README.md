@@ -2,7 +2,7 @@
 
 基于 Flutter `FragmentProgram` 自定义片元着色器实现的**液态玻璃（Liquid Glass）**效果示例：真实折射、RGB 色散分离、Fresnel 边缘高光、触摸动态光照，覆盖 **Android API 24 → 35** 全版本兼容，低端设备自动降级。
 
-配套 Flutter 组件库：[liquid_glass_flutter](https://github.com/XRC111/liquid_glass_flutter)（功能相同，package 化，可直接依赖）。
+配套 Flutter 组件库：[liquid_glass_library](https://github.com/XRC111/liquid_glass_library)（功能相同，package 化，可直接依赖）。
 
 ---
 
