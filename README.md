@@ -95,4 +95,4 @@ test/glass_quality_test.dart
 
 ## License
 
-MIT
+MIT（见 [LICENSE](./LICENSE)）
